@@ -1,0 +1,9 @@
+[package]
+name = "christmas_in_terminal"
+version = "0.1.0"
+authors = ["Hanaasagi <ambiguous404@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ncurses = "5.97.0"
+rand = "0.6.1"
